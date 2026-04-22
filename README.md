@@ -1,4 +1,19 @@
-## Hi there 👋
+# [SYSTEM_STATUS: ACTIVE]
+
+### Console >> Anagh Tiwari
+- **Focus:** Cybersecurity & System Architecture
+- **Environment:** BTech CSE @ Galgotias University
+- **Current Task:** Rebuilding the perimeter logic.
+
+---
+
+### // Tech Stack [DECRYPTING...]
+- 🛠️ **Languages:** Python, C++, Shell
+- 🔐 **Interests:** Network Security, Cryptography, Automation
+- ⚡ **Status:** Optimizing first-year curriculum.
+
+> "Proof is for those who need validation. I just build the solution."
+> 
 
 <!--
 **gzpanagh/gzpanagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
